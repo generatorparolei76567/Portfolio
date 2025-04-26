@@ -1,4 +1,6 @@
-![Preview](title.png)
+!<p align="center">
+  <img src="portfolio-banner.png" alt="Портфолио баннер" width="100%" />
+</p>
 # Привет! Я Данила 👋
 
 💻 Frontend-разработчик из России  
