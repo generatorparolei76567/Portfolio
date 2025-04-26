@@ -38,5 +38,5 @@
 
 ## 📫 Контакты
 - Email: 
-- GitHub: []()
-- Telegram: [])
+- GitHub: [[]()](https://github.com/generatorparolei76567)
+- Telegram: 
